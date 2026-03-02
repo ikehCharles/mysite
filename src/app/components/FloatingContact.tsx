@@ -5,7 +5,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { MessageCircle, Phone, Mail, X } from "lucide-react";
 
 const phone = process.env.NEXT_PUBLIC_PHONE ?? "+447123456789";
-const email = process.env.NEXT_PUBLIC_EMAIL ?? "hello@salongrowthstudio.com";
+const email = process.env.NEXT_PUBLIC_EMAIL ?? "hello@geekgringrowth.com";
 const whatsapp = process.env.NEXT_PUBLIC_WHATSAPP ?? "447123456789";
 
 const contactOptions = [

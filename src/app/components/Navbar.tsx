@@ -36,10 +36,10 @@ export default function Navbar() {
         {/* Logo */}
         <a href="#" className="flex items-center gap-2">
           <div className="w-8 h-8 rounded-full bg-accent flex items-center justify-center">
-            <span className="text-white font-bold text-sm">SG</span>
+            <span className="text-white font-bold text-sm">GG</span>
           </div>
           <span className="font-semibold text-lg tracking-tight">
-            Salon<span className="text-accent">Growth</span>
+            GeekGrin<span className="text-accent">Growth</span>
           </span>
         </a>
 

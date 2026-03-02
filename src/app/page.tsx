@@ -450,7 +450,7 @@ export default function Home() {
             ))}
           </div>
           <blockquote className="text-lg md:text-xl text-foreground/80 italic max-w-3xl mx-auto mb-6 leading-relaxed">
-            &ldquo;Since working with Salon Growth Studio, our online bookings
+            &ldquo;Since working with GeekGrin Growth Studio, our online bookings
             have increased by over 40%. They truly understand the salon industry
             and deliver strategies that actually work.&rdquo;
           </blockquote>
@@ -566,7 +566,7 @@ export default function Home() {
             className="flex flex-col sm:flex-row gap-4 justify-center"
           >
             <a
-              href={`mailto:${process.env.NEXT_PUBLIC_EMAIL ?? "hello@salongrowthstudio.com"}`}
+              href={`mailto:${process.env.NEXT_PUBLIC_EMAIL ?? "hello@geekgringrowth.com"}`}
               className="inline-flex items-center justify-center gap-2 px-10 py-4 bg-accent text-white font-semibold rounded-full hover:bg-accent-dark transition-all duration-300 shadow-lg shadow-accent/25 text-lg"
             >
               Book Consultation
@@ -605,10 +605,10 @@ export default function Home() {
           <div className="flex flex-col md:flex-row items-center justify-between gap-6">
             <div className="flex items-center gap-2">
               <div className="w-8 h-8 rounded-full bg-accent flex items-center justify-center">
-                <span className="text-white font-bold text-sm">SG</span>
+                <span className="text-white font-bold text-sm">GG</span>
               </div>
               <span className="font-semibold text-white text-lg">
-                Salon<span className="text-accent">Growth</span>
+                GeekGrin<span className="text-accent">Growth</span>
               </span>
             </div>
 
@@ -628,7 +628,7 @@ export default function Home() {
             </div>
 
             <div className="text-sm">
-              © {new Date().getFullYear()} Salon Growth Studio. All rights
+              © {new Date().getFullYear()} GeekGrin Growth Studio. All rights
               reserved.
             </div>
           </div>

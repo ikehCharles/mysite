@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Salon Growth Studio | Digital Marketing for London Hair Salons",
+  title: "GeekGrin Growth Studio | Digital Marketing for London Hair Salons",
   description:
     "Helping London hair salons increase bookings and revenue through conversion-focused digital strategies. SEO, Instagram funnels, and local visibility.",
   keywords: [
